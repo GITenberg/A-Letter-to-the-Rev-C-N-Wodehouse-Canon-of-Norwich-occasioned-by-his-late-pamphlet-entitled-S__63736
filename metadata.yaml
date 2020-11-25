@@ -1,5 +1,8 @@
 _repo: A-Letter-to-the-Rev-C-N-Wodehouse-Canon-of-Norwich-occasioned-by-his-late-pamphlet-entitled-S__63736
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63736-h/images/cover.jpg
 creator:
   author:
     agent_name: Green, Charles
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '52579'
     url: http://www.gutenberg.org/2009/agents/52579
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63736#A-Letter-to-the-Rev-C-N-Wodehouse-Canon-of-Norwich-occasioned-by-his-late-pamphlet-entitled-S_
 gutenberg_issued: '2020-11-13'
 gutenberg_type: Text
 identifiers:
